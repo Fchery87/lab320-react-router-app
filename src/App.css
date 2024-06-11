@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 2em;
+  }
+  
+  .nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .main {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .main h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .main p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
